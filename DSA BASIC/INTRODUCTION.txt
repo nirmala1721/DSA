@@ -1,0 +1,4 @@
+What is DSA 
+1. DS(data structures)- data structures is used to store data effectively and efficentely it is way to organize the data and store the data it can be used effectively
+2. A(algorithms)- A step-by step method to solve a problem or perform a task using data 
+-->Together, DSA helps write efficient code to solve real-world problems.
