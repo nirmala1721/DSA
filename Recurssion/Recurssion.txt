@@ -1,0 +1,10 @@
+1. Recursion is a technique where a function calls itself to solve a smaller version of the same problem.
+2. Two Main Parts of Recursion
+   a. Base Case – Condition that stops the recursion.
+   b. Recursive Case – The part where the function calls itself.
+3. why to use recursion in DSA
+  Recursion is very useful for:
+   a.Solving divide-and-conquer problems
+   b.Working with tree and graph structures
+   c. Writing clean and short code for problems like: Factorial,Fibonacci ,Searching , Backtracking (e.g., N-Queens, Maze problems) ,Tower of Hanoi
+

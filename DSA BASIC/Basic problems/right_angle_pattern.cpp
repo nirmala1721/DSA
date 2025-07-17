@@ -1,3 +1,5 @@
+// right angle Traingle 
+
 #include<iostream>
 using namespace std;
 int main(){

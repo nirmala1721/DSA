@@ -1,0 +1,5 @@
+1. Space complexity measures how much extra memory (RAM) the algorithm uses as the input grows. It includes:Variables ,Data structures (arrays, hash tables, etc.),Function call stack (for recursion)
+2. Common Space Complexities:
+ a. O(1) — Constant space: Uses a fixed amount of memory.
+ b. O(n) — Linear space: Memory grows with input size.
+ c. O(n²) — Memory usage grows with square of input (e.g., 2D matrix).

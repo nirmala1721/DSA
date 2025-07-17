@@ -1,0 +1,10 @@
+1. Time complexity tells us how the runtime of an algorithm increases with the input size. It measures the number of operations the algorithm performs, not the actual clock time.
+2. Think of time complexity like this: "How many steps does your program take to finish its job as the input gets bigger?"
+3. We don't count seconds or actual time. We count how many operations your code needs to do.
+common time complexities:-
+ a. O(1) — Constant time: The operation takes the same time regardless of input size.
+ b. O(log n) — Logarithmic time: The runtime grows slowly as input increases (e.g., Binary Search).
+ c. O(n) — Linear time: Time grows proportionally with input size.
+ d .O(n log n) — Log-linear time (e.g., Merge Sort).
+ e. O(n²) — Quadratic time: Common with nested loops over the input (e.g., Bubble Sort).
+
