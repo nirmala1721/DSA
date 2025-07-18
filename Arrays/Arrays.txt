@@ -1,0 +1,36 @@
+Arrays in DSA
+
+1. Definition: An array is a linear data structure that stores elements of the same type in contiguous memory locations. Each element is accessed using an index, starting from 0.
+
+2. Importance of Arrays in DSA:
+    - Fast indexing: Any element can be accessed in O(1) time.
+    - Foundation for other data structures: Arrays are used to implement stacks, queues, heaps, etc.
+    - Essential for solving various algorithmic problems.
+
+3. Basic Array Operations:
+
+| Operation | Description                               | Time Complexity      |
+|-----------|-------------------------------------------|---------------------|
+| Access    | Retrieve element at a specific index      | O(1)                |
+| Search    | Find an element (linear/binary search)    | O(n) / O(log n)     |
+| Insertion | Add element (depends on position)         | O(n)                |
+| Deletion  | Remove element (depends on position)      | O(n)                |
+| Traversal | Visit each element                        | O(n)                |
+
+4. Types of arrays 
+  i.   One-dimensional array- Basic form of array
+  ii.  Two-dimensional array (Matrix) - Useful in image processing, graphs, etc.
+  iii. Multidimensional array- Rare in competitive programming
+
+5. Array Topics to Learn in DSA:
+    a. Traversing and Searching 
+    b. Sorting Algorithms (Bubble, Selection, Insertion)
+    c. Binary Search
+    d. Sliding Window Technique
+    e. Two Pointer Technique
+    f. Prefix Sum / Suffix Sum
+    g. Kadane’s Algorithm
+    h. Array Rotation
+    i. Matrix Operations
+    j. Spiral Traversal, Diagonal Traversal
+
