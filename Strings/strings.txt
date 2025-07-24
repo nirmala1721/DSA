@@ -1,0 +1,15 @@
+1. Strings are essential in Data Structures and Algorithms (DSA). A string is a sequence of characters used to store and process text in programming.
+2. In C++, a string is a data type for textual data. You can declare a string as follows:
+    Example:
+     string str = "hello";
+3. Common String Operations:
+Operation                                   Description
+length() or size()                   Returns the number of characters in the string
+str[i]                               Accesses the character at index i
+substr(start, len)                   Extracts a substring
++                                    Concatenates two strings
+==, !=, <, >                         Compares strings
+find("word")                         Finds the position of a substring
+erase(start, len)                    Removes part of the string
+insert(pos, "txt")                   Inserts a substring at a given position
+reverse(str.begin(), str.end())      Reverses the string (using STL)
